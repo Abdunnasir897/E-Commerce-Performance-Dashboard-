@@ -72,11 +72,7 @@ This dashboard presents key sales metrics for an online store. The data reflects
 
 ---
 
-## 📁 Repository Contents
 
-- `ecommerce-sales-dashboard.png` → Original dashboard image
-- `data/` → Extracted data in CSV/JSON format (coming soon)
-- `insights.md` → Detailed business recommendations
 
 ---
 
