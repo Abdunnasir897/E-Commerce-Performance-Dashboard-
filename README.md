@@ -11,7 +11,7 @@ This dashboard presents key sales metrics for an online store. The data reflects
 - **Total Revenue**: **USh 130.98K**
 - **Total Quantity Sold**: **254 units**
 
----
+
 
 ## 📊 Key Insights
 
@@ -70,11 +70,6 @@ This dashboard presents key sales metrics for an online store. The data reflects
 
 **Key Observation**: Strong upward trend in 2025, indicating rapid business growth.
 
----
-
-
-
----
 
 ## 🚀 Business Recommendations
 
@@ -83,4 +78,4 @@ This dashboard presents key sales metrics for an online store. The data reflects
 - Investigate ways to increase adoption of digital payments (Credit Card & PayPal).
 - Capitalize on the 2025 growth momentum.
 
----
+
