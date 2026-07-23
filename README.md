@@ -2,7 +2,7 @@
 
 📊 **Interactive analysis of e-commerce sales performance** covering revenue, quantity sold, payment methods, and yearly trends.
 
-![E-Commerce Sales Dashboard](ecommerce-sales-dashboard.png)
+![E-Commerce Sales Dashboard](ecommerce-sales-dashboard.PNG)
 
 ## 📌 Overview
 
