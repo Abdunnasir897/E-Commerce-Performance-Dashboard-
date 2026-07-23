@@ -1,4 +1,4 @@
-# E-Commerce Sales Dashboard
+E-Commerce Sales Dashboard
 
 📊 **Interactive analysis of e-commerce sales performance** covering revenue, quantity sold, payment methods, and yearly trends.
 
